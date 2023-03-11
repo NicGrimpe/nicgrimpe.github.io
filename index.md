@@ -7,7 +7,7 @@ Développeur informatique, Bachelier en génie informatique, Sportif.
 
 ## Présentement
 `depuis 2022`
-Développeur full stack chez Idéo Concepts.
+En développement d'un réseau de serveurs connectés chez Idéo Concepts.
 
 ### Spécialisé dans
 Le développement de solution sur micro-ordinateurs (Bare metal, FreeRTOS, Linux)
